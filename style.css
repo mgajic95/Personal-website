@@ -1,0 +1,39 @@
+
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+  
+  .profile-img {
+    border-radius: 50%;
+    height: 100px;
+  }
+  
+  
+.contact-me{
+    text-align: center;
+}
+
+.contact-me > h2{
+    color:lightblue
+}
+
+.contact-me > h6 {
+    color:rgb(26, 122, 154);
+    ;
+}
+
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+hr {
+    border: dotted #c5f0f0 6px !important;
+    border-bottom: none !important;
+    width: 4% !important;
+    margin: 100px auto !important;
+}
